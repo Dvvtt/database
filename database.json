@@ -64,5 +64,12 @@
       "date": "2024-10-21",
       "description": "Alo"
     }
+  ],
+  "password-reset": [
+    {
+      "id": "1",
+      "email": "diego@duoc.com",
+      "status": "pending"
+    }
   ]
 }
